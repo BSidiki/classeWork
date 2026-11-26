@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'BSidiki/finance-service-portal'
+        IMAGE_NAME = 'bsidiki/finance-service-portal'
     }
 
     stages {
